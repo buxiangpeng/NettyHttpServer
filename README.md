@@ -1,0 +1,2 @@
+# NettyHttpServer
+使用Netty监听端口作为一个简单的http服务器，曾用于监听超信的信息请求
